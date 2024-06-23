@@ -13,3 +13,8 @@ Este proyecto fue realizado para mi tesina de Licenciatura en Economía. Consist
 ### Warning: cualitative variables // variables cualitivativas
 
 ## Variable transformations // Transformaciones realizadas
+
+## Contact
+
+Whatever doubt or guidance you need, just reach me out on my personal email: talavera144@gmail.com
+Cualquier duda o ayuda que necesites, consultame a mi mail.
