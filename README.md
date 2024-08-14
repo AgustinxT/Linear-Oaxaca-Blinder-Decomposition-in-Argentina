@@ -10,9 +10,23 @@ La data utilizada proviene de la EPH, como se mencionó en el apartado anterior.
 
 ## Descripción del modelo
 
+
 ## Variables 
+Las variables están codificadas, por lo que se deja un archivo xlsx que contiene todas las explicaciones. En caso de que el usuario no entienda español, puede usar AI para traducir.
+
+Dada la disponibilidad de informacion, las variables utilizadas para explicar las diferencias salariales entre hombres y mujeres fueron: 
+* Experiencia laboral: para esta variable se tomó la edad como proxy.
+* Años de educación completamos
+* Horas trabajadas a la semana
+* Full time: variable dummy que es =1 cuando el individuo trabaja =>40hs semanales
+* Empleo formal: variable dummy que es =1 cuando el individuo sufre descuentos en su salario en concepto de jubilacion.
+* Empleo privado: variable dummy que es =1 cuando el individuo trabaja para el sector privado.
+* Calif empleo: variable ordinal que va del 1 (menos calificado) al 4 (mas calificado).
+* Subocupacion: variable dummy=1 cuando el individuo trabaja menos de 40hs semanales pero desearía trabajar mas.
+* Variables sectoriales: indican a que sector de la economia pertenecen los trabajadores. 
 
 ### Warning: cualitative variables // variables cualitivativas
+Dada la limitacion de este modelo para trabajar con variables cualitativas, simplemente se emplearon dummys.
 
 ## Variable transformations // Transformaciones realizadas
 
