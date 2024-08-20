@@ -1,11 +1,41 @@
 # Linear-Oaxaca-Blinder-Decomposition-in-Argentina
 EN: This is the project I made to get my Economist degree. I wanted to share this simple demostration on how to apply the O-A decomposition plus an EDA in R. 
-The main users could be people with academic interests, as this technique is widely known and has many applications, as well as those who need a guide on how to use Argentina's foremost demographic data source, the Permanent Household Survey (EPH, from here on)
+The main users could be people with academic interests, as this technique is widely known and has many applications, as well as those who need a guide on how to use Argentina's foremost demographic data source, the Permanent Household Survey (EPH, from here on).
 
 
 ES: Este proyecto fue realizado para mi tesina de Licenciatura en Economía. Consiste en una demostracion de como utilizar la descomposición O-A y al mismo tiempo un análisis exploratorio en R.
 
 Los principales usuarios podrian ser personas con intereses académicos, debido a que esta técnica está ampliamente difundida y tiene muchas aplicaciones, asi como tambien aquellos que requieran una guía de como usar la fuente de datos demográfica por excelencia de Argentina, la Encuesta Permanente de Hogares (EPH, de ahora en adelante). 
+
+
+## Structure - Estructura
+EN:
+The following work is composed by:
+
+* An xlsx file with the composition of the EPH and the meaning of each variable.
+* An R Markdown file that shows a step-by-step process, from data import and cleaning to data exploration and the application of the O-B technique.
+* The raw data from the four quarters of 2022 used in this study, in txt format.
+* An xlsx file with the RIPTE index.
+
+//
+ES:
+El siguiente trabajo está compuesto por:
+* Un xlsx con la composicion de la EPH y el significado de cada variable.
+* Un R markdown donde se muestra el paso a paso de todo el proceso, desde la importacion y limpieza, hasta la exploración de los datos y la aplicación de la técnica O-B.
+* La raw data de los 4 trimestres del año 2022 empleados en este estudio en formato txt.
+* Un xlsx con el RIPTE.
+
+
+## Alcances y definiciones
+En:
+For this study, the population was limited to young people between 16 and 30 years old from the Greater Resistencia metropolitan area (one of the provinces in Northeast Argentina).
+Gender is limited by the EPH, defined by biological sex at birth.
+
+//
+ES:
+Para el presente estudio la población quedó limitada a los jovenes entre 16 y 30 años del aglomerado Gran Resistencia (una de las provincias del Noreste argentino).
+El género queda limitada a la EPH, definido por el sexo biológico al momento del nacimiento.
+
 
 ## Data Source - Fuentes de datos
 EN: The data used comes from the Permanent Household Survey (EPH), as mentioned in the previous section. This is a national program for the systematic and ongoing production of social indicators conducted by the National Institute of Statistics and Censuses (INDEC), which provides insights into the sociodemographic and economic characteristics of the population
