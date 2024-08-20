@@ -1,17 +1,21 @@
 # Linear-Oaxaca-Blinder-Decomposition-in-Argentina
-This is the project I made to get my Economist degree. I wanted to share this simple demostration on how to apply the O-A decomposition plus an EDA in R. 
+EN: This is the project I made to get my Economist degree. I wanted to share this simple demostration on how to apply the O-A decomposition plus an EDA in R. 
+The main users could be people with academic interests, as this technique is widely known and has many applications, as well as those who need a guide on how to use Argentina's foremost demographic data source, the Permanent Household Survey (EPH, from here on)
 
-Este proyecto fue realizado para mi tesina de Licenciatura en Economía. Consiste en una demostracion de como utilizar la descomposición O-A y al mismo tiempo un análisis exploratorio en R.
+
+ES: Este proyecto fue realizado para mi tesina de Licenciatura en Economía. Consiste en una demostracion de como utilizar la descomposición O-A y al mismo tiempo un análisis exploratorio en R.
 
 Los principales usuarios podrian ser personas con intereses académicos, debido a que esta técnica está ampliamente difundida y tiene muchas aplicaciones, asi como tambien aquellos que requieran una guía de como usar la fuente de datos demográfica por excelencia de Argentina, la Encuesta Permanente de Hogares (EPH, de ahora en adelante). 
 
 ## Data Source - Fuentes de datos
-The data used comes from the Permanent Household Survey (EPH), as mentioned in the previous section. This is a national program for the systematic and ongoing production of social indicators conducted by the National Institute of Statistics and Censuses (INDEC), which provides insights into the sociodemographic and economic characteristics of the population
+EN: The data used comes from the Permanent Household Survey (EPH), as mentioned in the previous section. This is a national program for the systematic and ongoing production of social indicators conducted by the National Institute of Statistics and Censuses (INDEC), which provides insights into the sociodemographic and economic characteristics of the population
+
 //
-La data utilizada proviene de la EPH, como se mencionó en el apartado anterior. La cual es un programa nacional de producción sistemática y permanente de indicadores sociales que lleva a cabo el Instituto Nacional de Estadística y Censos (INDEC), que permite conocer las características sociodemográficas y económicas de la población.
+
+ES: La data utilizada proviene de la EPH, como se mencionó en el apartado anterior. La cual es un programa nacional de producción sistemática y permanente de indicadores sociales que lleva a cabo el Instituto Nacional de Estadística y Censos (INDEC), que permite conocer las características sociodemográficas y económicas de la población.
 
 ## Variables 
-
+EN:
 The variables are coded, so an xlsx file containing all the explanations is provided. If the user does not understand Spanish, AI can be used to translate.
 
 Given the availability of information, the variables used to explain the wage differences between men and women were:
@@ -31,6 +35,7 @@ On the other hand, the dependent variable in question, salary, undergoes two tra
 * Deflation by RIPTE: Salary is deflated by RIPTE (average taxable income of stable workers) to eliminate the effect of inflation and make periods comparable."
 
 //
+ES:
 Las variables están codificadas, por lo que se deja un archivo xlsx que contiene todas las explicaciones. En caso de que el usuario no entienda español, puede usar AI para traducir.
 
 Dada la disponibilidad de informacion, las variables utilizadas para explicar las diferencias salariales entre hombres y mujeres fueron: 
@@ -49,11 +54,13 @@ Por otro lado, la variable explicada en cuestión, el salario, pasa por dos tran
 * Se deflacta por RIPTE (remuneración imponible promedio de los  trabajadores estables), para eliminar el efecto de la inflacion y hacer comparables los periodos.
 
 ## Conclusion - Insights
+EN:
 A 4.18% aggregate difference in real hourly wages was found in favor of women. This could be influenced by the fact that hourly wages tend to be higher in part-time jobs, and since a larger percentage of women work under this condition, it may be influencing the wage gap in favor of this group, as shown by the decomposition model. Furthermore, there is a clear difference in job market share, with a 26% of the participation gap inf favour of men.
 
 On the other hand, due to the magnitude of the variables' standard errors (SE), it seems that the existing differences are not statistically significant. However, this does not mean that in a different context, these variables couldn't be key to explaining this phenomenon
 
 //
+ES:
 Se encontró una diferencia agregada del 4.18% en el salario real por hora a favor de las mujeres. Esto podría estar influenciado por el hecho de que los salarios por hora suelen ser más altos en trabajos a tiempo parcial, y dado que un porcentaje mayor de mujeres trabaja bajo esta condición, podría estar influyendo en la brecha salarial en favor de este grupo, tal como lo muestra el modelo de descomposición. Además, hay una clara diferencia en la participación en el mercado laboral, con una ventaja del 26% a favor de los hombres.
 
 Por otro lado, debido a la magnitud de los errores estándar (SE) de las variables, parece que las diferencias existentes no son estadísticamente significativas. Sin embargo, esto no significa que en otro contexto estas variables no puedan ser clave para explicar este fenómeno.
@@ -61,5 +68,6 @@ Por otro lado, debido a la magnitud de los errores estándar (SE) de las variabl
 ## Contact
 
 Whatever doubt or guidance you need, just reach me out on my personal email: talavera144@gmail.com
+
 Cualquier duda o ayuda que necesites, consultame a mi mail!
 
