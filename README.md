@@ -1,6 +1,6 @@
 # Linear-Oaxaca-Blinder-Decomposition-in-Argentina
 EN: This is the project I made to get my Economist degree. I wanted to share this simple demostration on how to apply the O-A decomposition plus an EDA in R. 
-The main users could be people with academic interests, as this technique is widely known and has many applications, as well as those who need a guide on how to use Argentina's foremost demographic data source, the Permanent Household Survey (EPH, from here on).
+The main users could be people with academic interests, as this technique is widely known and has many applications, as well as those who need a guide on how to use Argentina's foremost demographic data source, the Permanent Household Survey (EPH, from now on).
 
 
 ES: Este proyecto fue realizado para mi tesina de Licenciatura en Economía. Consiste en una demostracion de como utilizar la descomposición O-A y al mismo tiempo un análisis exploratorio en R.
@@ -14,7 +14,7 @@ The following work is composed by:
 
 * An xlsx file with the composition of the EPH and the meaning of each variable.
 * An R Markdown file that shows a step-by-step process, from data import and cleaning to data exploration and the application of the O-B technique.
-* The raw data from the four quarters of 2022 used in this study, in txt format.
+* The raw data of the four quarters of 2022 used in this study, in txt format.
 * An xlsx file with the RIPTE index.
 
 //
@@ -26,9 +26,9 @@ El siguiente trabajo está compuesto por:
 * Un xlsx con el RIPTE.
 
 
-## Alcances y definiciones
+## Study's Delimitation // Alcances y definiciones
 En:
-For this study, the population was limited to young people between 16 and 30 years old from the Greater Resistencia metropolitan area (one of the provinces in Northeast Argentina).
+In this study, the population was limited to young people between 16 and 30 years old from Gran Resistencia (one of the provinces in Northeast Argentina).
 Gender is limited by the EPH, defined by biological sex at birth.
 
 //
