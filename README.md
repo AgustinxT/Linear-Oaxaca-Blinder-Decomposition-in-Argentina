@@ -91,7 +91,7 @@ On the other hand, due to the magnitude of the variables' standard errors (SE), 
 
 //
 ES:
-Se encontró una diferencia agregada del 4.18% en el salario real por hora a favor de las mujeres. Esto podría estar influenciado por el hecho de que los salarios por hora suelen ser más altos en trabajos a tiempo parcial, y dado que un porcentaje mayor de mujeres trabaja bajo esta condición, podría estar influyendo en la brecha salarial en favor de este grupo, tal como lo muestra el modelo de descomposición. Además, hay una clara diferencia en la participación en el mercado laboral, con una ventaja del 26% a favor de los hombres.
+Se encontró una diferencia agregada del 4.18% en el salario real por hora a favor de las mujeres. Esto podría estar influenciado por el hecho de que los salarios por hora suelen ser más altos en trabajos a tiempo parcial, y dado que un porcentaje mayor de mujeres trabaja bajo esta condición, podría estar influyendo en la brecha salarial en favor de este grupo, tal como lo muestra el modelo de descomposición. Por otro lado, hay una clara diferencia en la participación en el mercado laboral, con una ventaja del 26% a favor de los hombres.
 
 Por otro lado, debido a la magnitud de los errores estándar (SE) de las variables, parece que las diferencias existentes no son estadísticamente significativas. Sin embargo, esto no significa que en otro contexto estas variables no puedan ser clave para explicar este fenómeno.
 
