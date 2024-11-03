@@ -8,6 +8,7 @@ ES: Este proyecto fue realizado para mi tesina de Licenciatura en Economía. Con
 Los principales usuarios podrian ser personas con intereses académicos, debido a que esta técnica está ampliamente difundida y tiene muchas aplicaciones, asi como tambien aquellos que requieran una guía de como usar la fuente de datos demográfica por excelencia de Argentina, la Encuesta Permanente de Hogares (EPH, de ahora en adelante). 
 
 To access the full project visit the link // Para acceder al trabajo completo haga click en el siguiente link: 
+https://agustinxt.github.io/Linear-Oaxaca-Blinder-Decomposition-in-Argentina/
 
 ## Structure - Estructura 
 EN:
